@@ -8,10 +8,6 @@
 
 <br />
 
-## 서비스 링크
-
-> http://kdt-sw3-team14.elicecoding.com/
-
 #### 테스트 계정
 
 - 일반 유저
