@@ -4,6 +4,8 @@
 
 <img alt="계란후라이 로고" src="src/public/img/fried-egg.png">
 
+프로젝트 회고 : https://velog.io/@younngg1012/eggfried
+
 </div>
 
 <br />
